@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\EcommerceInventoryAPI_sln\\EcommerceInventory.Domain\\EcommerceInventory.Domain.csproj": {}
+    "D:\\Github\\EcommerceInventory\\EcommerceInventoryAPI_sln\\EcommerceInventory.Domain\\EcommerceInventory.Domain.csproj": {}
   },
   "projects": {
-    "D:\\C#\\EcommerceInventoryAPI_sln\\EcommerceInventory.Domain\\EcommerceInventory.Domain.csproj": {
+    "D:\\Github\\EcommerceInventory\\EcommerceInventoryAPI_sln\\EcommerceInventory.Domain\\EcommerceInventory.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\EcommerceInventoryAPI_sln\\EcommerceInventory.Domain\\EcommerceInventory.Domain.csproj",
+        "projectUniqueName": "D:\\Github\\EcommerceInventory\\EcommerceInventoryAPI_sln\\EcommerceInventory.Domain\\EcommerceInventory.Domain.csproj",
         "projectName": "EcommerceInventory.Domain",
-        "projectPath": "D:\\C#\\EcommerceInventoryAPI_sln\\EcommerceInventory.Domain\\EcommerceInventory.Domain.csproj",
+        "projectPath": "D:\\Github\\EcommerceInventory\\EcommerceInventoryAPI_sln\\EcommerceInventory.Domain\\EcommerceInventory.Domain.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\EcommerceInventoryAPI_sln\\EcommerceInventory.Domain\\obj\\",
+        "outputPath": "D:\\Github\\EcommerceInventory\\EcommerceInventoryAPI_sln\\EcommerceInventory.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

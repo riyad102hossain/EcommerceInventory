@@ -3860,11 +3860,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\EcommerceInventoryAPI_sln\\EcommerceInventory.Application\\EcommerceInventory.Application.csproj",
+      "projectUniqueName": "D:\\Github\\EcommerceInventory\\EcommerceInventoryAPI_sln\\EcommerceInventory.Application\\EcommerceInventory.Application.csproj",
       "projectName": "EcommerceInventory.Application",
-      "projectPath": "D:\\C#\\EcommerceInventoryAPI_sln\\EcommerceInventory.Application\\EcommerceInventory.Application.csproj",
+      "projectPath": "D:\\Github\\EcommerceInventory\\EcommerceInventoryAPI_sln\\EcommerceInventory.Application\\EcommerceInventory.Application.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\EcommerceInventoryAPI_sln\\EcommerceInventory.Application\\obj\\",
+      "outputPath": "D:\\Github\\EcommerceInventory\\EcommerceInventoryAPI_sln\\EcommerceInventory.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3886,11 +3886,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\C#\\EcommerceInventoryAPI_sln\\EcommerceInventory.Domain\\EcommerceInventory.Domain.csproj": {
-              "projectPath": "D:\\C#\\EcommerceInventoryAPI_sln\\EcommerceInventory.Domain\\EcommerceInventory.Domain.csproj"
+            "D:\\Github\\EcommerceInventory\\EcommerceInventoryAPI_sln\\EcommerceInventory.Domain\\EcommerceInventory.Domain.csproj": {
+              "projectPath": "D:\\Github\\EcommerceInventory\\EcommerceInventoryAPI_sln\\EcommerceInventory.Domain\\EcommerceInventory.Domain.csproj"
             },
-            "D:\\C#\\EcommerceInventoryAPI_sln\\EcommerceInventory.Infrastructure\\EcommerceInventory.Infrastructure.csproj": {
-              "projectPath": "D:\\C#\\EcommerceInventoryAPI_sln\\EcommerceInventory.Infrastructure\\EcommerceInventory.Infrastructure.csproj"
+            "D:\\Github\\EcommerceInventory\\EcommerceInventoryAPI_sln\\EcommerceInventory.Infrastructure\\EcommerceInventory.Infrastructure.csproj": {
+              "projectPath": "D:\\Github\\EcommerceInventory\\EcommerceInventoryAPI_sln\\EcommerceInventory.Infrastructure\\EcommerceInventory.Infrastructure.csproj"
             }
           }
         }

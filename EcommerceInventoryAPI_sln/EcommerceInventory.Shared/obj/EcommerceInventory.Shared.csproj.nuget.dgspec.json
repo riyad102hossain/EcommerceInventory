@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\EcommerceInventoryAPI_sln\\EcommerceInventory.Shared\\EcommerceInventory.Shared.csproj": {}
+    "D:\\Github\\EcommerceInventory\\EcommerceInventoryAPI_sln\\EcommerceInventory.Shared\\EcommerceInventory.Shared.csproj": {}
   },
   "projects": {
-    "D:\\C#\\EcommerceInventoryAPI_sln\\EcommerceInventory.Shared\\EcommerceInventory.Shared.csproj": {
+    "D:\\Github\\EcommerceInventory\\EcommerceInventoryAPI_sln\\EcommerceInventory.Shared\\EcommerceInventory.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\EcommerceInventoryAPI_sln\\EcommerceInventory.Shared\\EcommerceInventory.Shared.csproj",
+        "projectUniqueName": "D:\\Github\\EcommerceInventory\\EcommerceInventoryAPI_sln\\EcommerceInventory.Shared\\EcommerceInventory.Shared.csproj",
         "projectName": "EcommerceInventory.Shared",
-        "projectPath": "D:\\C#\\EcommerceInventoryAPI_sln\\EcommerceInventory.Shared\\EcommerceInventory.Shared.csproj",
+        "projectPath": "D:\\Github\\EcommerceInventory\\EcommerceInventoryAPI_sln\\EcommerceInventory.Shared\\EcommerceInventory.Shared.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\EcommerceInventoryAPI_sln\\EcommerceInventory.Shared\\obj\\",
+        "outputPath": "D:\\Github\\EcommerceInventory\\EcommerceInventoryAPI_sln\\EcommerceInventory.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
