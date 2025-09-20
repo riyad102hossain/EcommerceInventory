@@ -31,7 +31,7 @@ This project provides APIs to manage **Products, Categories**, and authenticatio
 git clone https://github.com/riyad102hossain/EcommerceInventory.git
 cd EcommerceInventory
 ```
-# ⚙️ Update Database Connection
+### ⚙️ Update Database Connection
 
 Edit your **`appsettings.json`** with your database connection string:
 
