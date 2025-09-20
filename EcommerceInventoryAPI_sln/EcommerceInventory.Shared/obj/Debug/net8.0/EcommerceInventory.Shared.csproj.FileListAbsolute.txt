@@ -1,0 +1,14 @@
+D:\C#\EcommerceInventoryAPI_sln\EcommerceInventory.Shared\bin\Debug\net8.0\EcommerceInventory.Shared.deps.json
+D:\C#\EcommerceInventoryAPI_sln\EcommerceInventory.Shared\bin\Debug\net8.0\EcommerceInventory.Shared.runtimeconfig.json
+D:\C#\EcommerceInventoryAPI_sln\EcommerceInventory.Shared\bin\Debug\net8.0\EcommerceInventory.Shared.dll
+D:\C#\EcommerceInventoryAPI_sln\EcommerceInventory.Shared\bin\Debug\net8.0\EcommerceInventory.Shared.pdb
+D:\C#\EcommerceInventoryAPI_sln\EcommerceInventory.Shared\obj\Debug\net8.0\EcommerceInventory.Shared.csproj.AssemblyReference.cache
+D:\C#\EcommerceInventoryAPI_sln\EcommerceInventory.Shared\obj\Debug\net8.0\EcommerceInventory.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\EcommerceInventoryAPI_sln\EcommerceInventory.Shared\obj\Debug\net8.0\EcommerceInventory.Shared.AssemblyInfoInputs.cache
+D:\C#\EcommerceInventoryAPI_sln\EcommerceInventory.Shared\obj\Debug\net8.0\EcommerceInventory.Shared.AssemblyInfo.cs
+D:\C#\EcommerceInventoryAPI_sln\EcommerceInventory.Shared\obj\Debug\net8.0\EcommerceInventory.Shared.csproj.CoreCompileInputs.cache
+D:\C#\EcommerceInventoryAPI_sln\EcommerceInventory.Shared\obj\Debug\net8.0\EcommerceInventory.Shared.dll
+D:\C#\EcommerceInventoryAPI_sln\EcommerceInventory.Shared\obj\Debug\net8.0\refint\EcommerceInventory.Shared.dll
+D:\C#\EcommerceInventoryAPI_sln\EcommerceInventory.Shared\obj\Debug\net8.0\EcommerceInventory.Shared.pdb
+D:\C#\EcommerceInventoryAPI_sln\EcommerceInventory.Shared\obj\Debug\net8.0\EcommerceInventory.Shared.genruntimeconfig.cache
+D:\C#\EcommerceInventoryAPI_sln\EcommerceInventory.Shared\obj\Debug\net8.0\ref\EcommerceInventory.Shared.dll

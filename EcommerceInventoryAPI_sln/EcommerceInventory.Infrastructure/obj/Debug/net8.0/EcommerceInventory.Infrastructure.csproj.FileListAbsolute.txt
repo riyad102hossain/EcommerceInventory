@@ -1,0 +1,17 @@
+D:\C#\EcommerceInventoryAPI_sln\EcommerceInventory.Infrastructure\bin\Debug\net8.0\EcommerceInventory.Infrastructure.deps.json
+D:\C#\EcommerceInventoryAPI_sln\EcommerceInventory.Infrastructure\bin\Debug\net8.0\EcommerceInventory.Infrastructure.runtimeconfig.json
+D:\C#\EcommerceInventoryAPI_sln\EcommerceInventory.Infrastructure\bin\Debug\net8.0\EcommerceInventory.Infrastructure.dll
+D:\C#\EcommerceInventoryAPI_sln\EcommerceInventory.Infrastructure\bin\Debug\net8.0\EcommerceInventory.Infrastructure.pdb
+D:\C#\EcommerceInventoryAPI_sln\EcommerceInventory.Infrastructure\bin\Debug\net8.0\EcommerceInventory.Domain.dll
+D:\C#\EcommerceInventoryAPI_sln\EcommerceInventory.Infrastructure\bin\Debug\net8.0\EcommerceInventory.Domain.pdb
+D:\C#\EcommerceInventoryAPI_sln\EcommerceInventory.Infrastructure\obj\Debug\net8.0\EcommerceInventory.Infrastructure.csproj.AssemblyReference.cache
+D:\C#\EcommerceInventoryAPI_sln\EcommerceInventory.Infrastructure\obj\Debug\net8.0\EcommerceInventory.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\EcommerceInventoryAPI_sln\EcommerceInventory.Infrastructure\obj\Debug\net8.0\EcommerceInventory.Infrastructure.AssemblyInfoInputs.cache
+D:\C#\EcommerceInventoryAPI_sln\EcommerceInventory.Infrastructure\obj\Debug\net8.0\EcommerceInventory.Infrastructure.AssemblyInfo.cs
+D:\C#\EcommerceInventoryAPI_sln\EcommerceInventory.Infrastructure\obj\Debug\net8.0\EcommerceInventory.Infrastructure.csproj.CoreCompileInputs.cache
+D:\C#\EcommerceInventoryAPI_sln\EcommerceInventory.Infrastructure\obj\Debug\net8.0\Ecommerc.D9A8FE1E.Up2Date
+D:\C#\EcommerceInventoryAPI_sln\EcommerceInventory.Infrastructure\obj\Debug\net8.0\EcommerceInventory.Infrastructure.dll
+D:\C#\EcommerceInventoryAPI_sln\EcommerceInventory.Infrastructure\obj\Debug\net8.0\refint\EcommerceInventory.Infrastructure.dll
+D:\C#\EcommerceInventoryAPI_sln\EcommerceInventory.Infrastructure\obj\Debug\net8.0\EcommerceInventory.Infrastructure.pdb
+D:\C#\EcommerceInventoryAPI_sln\EcommerceInventory.Infrastructure\obj\Debug\net8.0\EcommerceInventory.Infrastructure.genruntimeconfig.cache
+D:\C#\EcommerceInventoryAPI_sln\EcommerceInventory.Infrastructure\obj\Debug\net8.0\ref\EcommerceInventory.Infrastructure.dll

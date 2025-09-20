@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\EcommerceInventoryAPI_sln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6343B67F-170C-4369-825C-609C0D27E750}|EcommerceInventory.Application\\EcommerceInventory.Application.csproj|d:\\c#\\ecommerceinventoryapi_sln\\ecommerceinventory.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6343B67F-170C-4369-825C-609C0D27E750}|EcommerceInventory.Application\\EcommerceInventory.Application.csproj|solutionrelative:ecommerceinventory.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\C#\\EcommerceInventoryAPI_sln\\EcommerceInventory.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "EcommerceInventory.Application\\Services\\ProductService.cs",
+              "ToolTip": "D:\\C#\\EcommerceInventoryAPI_sln\\EcommerceInventory.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "EcommerceInventory.Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T07:51:03.463Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

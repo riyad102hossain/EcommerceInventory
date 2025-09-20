@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "4sKHy349NKr4amOtWbvUJBxc/MlJ25YS5kqS18gHjyI=",
+  "Source": "EcommerceInventoryAPI",
+  "BasePath": "_content/EcommerceInventoryAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
